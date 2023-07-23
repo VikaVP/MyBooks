@@ -1,7 +1,7 @@
 <br />
 <p align="center">
 
-  <h3 align="center">Frontend Dev test @Gadjian.com</h3>
+  <h3 align="center">MyBooks</h3>
 
   <p align="center">
     <br />
@@ -16,27 +16,19 @@
   </p>
 </p>
 
-[![React JS](https://img.shields.io/badge/ReactJS-16.12.0-blue)](https://reactjs.org/)
-
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
 
-- [About the Project](#about-the-project)
-  - [Built With](#built-with)
+- [Built With](#built-with)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Demo](#demo)
 - [Contact](#contact)
 
-<!-- ABOUT THE PROJECT -->
 
-## About The Project
-
-This project is a project to meet the test to become a Frontend Developer at Gadjian.com, which contains a form to make a list of expenses and daily expenses and there is a calculation of the money in accordance with the type of expenditure / income. This project was created using React JS Hook and the state management uses React Context.
-
-### Built With
+## Built With
 
 - [React JS](https://reactjs.org/docs/getting-started.html)
 - [React Hook](https://reactjs.org/docs/hooks-intro.html)
