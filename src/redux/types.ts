@@ -1,0 +1,8 @@
+export const GET_BOOK_DATAS = 'GET_BOOK_DATAS';
+export const IS_LOADING = 'IS_LOADING';
+export const SET_PAGE = 'SET_PAGE';
+export const GET_BOOK_DETAIL = 'GET_BOOK_DETAIL';
+export const IS_LOADING_DETAIL = 'IS_LOADING_DETAIL';
+export const SET_MODAL = 'SET_MODAL';
+export const ADD_TO_FAVORITES = 'ADD_TO_FAVORITES';
+export const REMOVE_FROM_FAVORITES = 'REMOVE_FROM_FAVORITES';
