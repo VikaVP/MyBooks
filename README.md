@@ -1,46 +1,108 @@
-# Getting Started with Create React App
+<br />
+<p align="center">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <h3 align="center">Frontend Dev test @Gadjian.com</h3>
 
-## Available Scripts
+  <p align="center">
+    <br />
+    <a href="https://github.com/VikaVP/MyBooks"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/VikaVP/MyBooks">View Demo</a>
+    ·
+    <a href="https://github.com/VikaVP/MyBooks/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/VikaVP/MyBooks/issues">Request Feature</a>
+  </p>
+</p>
 
-In the project directory, you can run:
+[![React JS](https://img.shields.io/badge/ReactJS-16.12.0-blue)](https://reactjs.org/)
 
-### `npm start`
+<!-- TABLE OF CONTENTS -->
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Table of Contents
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- [About the Project](#about-the-project)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Demo](#demo)
+- [Contact](#contact)
 
-### `npm test`
+<!-- ABOUT THE PROJECT -->
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## About The Project
 
-### `npm run build`
+This project is a project to meet the test to become a Frontend Developer at Gadjian.com, which contains a form to make a list of expenses and daily expenses and there is a calculation of the money in accordance with the type of expenditure / income. This project was created using React JS Hook and the state management uses React Context.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Built With
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [React JS](https://reactjs.org/docs/getting-started.html)
+- [React Hook](https://reactjs.org/docs/hooks-intro.html)
+ 
+  <!-- GETTING STARTED -->
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Getting Started
 
-### `npm run eject`
+To run this project, follow these steps:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```
+- open your terminal
+- git clone https://github.com/VikaVP/MyBooks.git
+- cd MyBooks
+- npm install
+- npm vite:start
+- You will directed to localhost:3001 in your browser
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Prerequisites
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+This is an example of how to list things you need to use the software and how to install them.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- Node Js
 
-## Learn More
+```sh
+npm install npm@latest -g
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Installation
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Clone the repo
+
+```sh
+git clone https://github.com/VikaVP/MyBooks.git
+```
+
+2. Install NPM packages
+
+```sh
+npm install
+```
+
+<!-- DEM0 -->
+
+## Demo
+
+See the [open issues](https://github.com/VikaVP/MyBooks/issues) for a list of proposed features (and known issues).
+[Click Here to go to Demo website on netlify](https://my-books-bay.vercel.app/)
+
+<!-- CONTRIBUTING -->
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<!-- CONTACT -->
+
+## Contact
+
+email me - [@vika_vp](vikavp0@gmail.com) - vikavp0@gmail.com
+
+Project Link: [https://github.com/VikaVP/MyBooks](https://github.com/VikaVP/MyBooks)
